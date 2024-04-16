@@ -29,4 +29,7 @@ Conjunto de acciones, recursos y permisos que se asocian a una política. Define
 - AWS Lambda -> donde se ejecuta el código
 - Amazon S3 -> donde se almacena el API Gateway y AWS Lambda
 - Cloudwatch -> Alejar logs de la app
-- 
+
+# Deployment
+
+serverless deploy --stage dev --region us-west-2

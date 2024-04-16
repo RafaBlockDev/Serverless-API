@@ -1,4 +1,6 @@
 service: binkio-labs-api
+org: rafabinkio1
+app: binkio-labs
 
 frameworkVersion: "3"
 
